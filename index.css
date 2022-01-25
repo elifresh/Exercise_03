@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.body{
+    padding: 30px;
+}
+.header{
+    padding: 20px;
+    background-color: #0091ea;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+#citytext{
+    padding: 50px;
+    text-align: center;
+}
+#citytext p{
+    padding: 10px;
+}
+.footer {
+    padding: 10px;
+    background-color: #004f7f;
+    text-align: center;
+    color: white;
+}
+#windwo{
+    margin: 20px;
+    height: 460px;
+    width: 558px;
+    background-color: #bcbcbc;
+   
+
+}
+#ilgrid{
+    height: 460px;
+    width: 558px;
+   padding: 20px;
+
+}
+#flex{
+    display: flex;
+    flex-direction: row;
+}
